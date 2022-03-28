@@ -1,5 +1,4 @@
 voila
 torch==1.11.0
 numpy
-json
-random
+ipywidgets==7.6.5
